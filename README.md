@@ -8,3 +8,6 @@ https://dotblogs.com.tw/HelloDeveloper/2017/09/21/143929
 
 文檔
 https://github.com/eric19740521/vue20210826
+
+
+更新版210827.7z 改用this.$emit支接接函數
